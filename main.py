@@ -13,7 +13,7 @@ import tensorflow as tf
 APP_TITLE = "Image Model API"
 MODEL_PATH = "model/best_model.keras"
 IMG_SIZE = (224, 224)
-CLASS_NAMES = ["Normal", "Tuberculosis",'Pneumonia']
+CLASS_NAMES = ["Normal",'Pneumonia', "TB"]
 
 # NEW GOOGLE DRIVE FILE ID
 FILE_ID = "1JzM6af6-r2T9SWMbXjDwmSTt77g7CKlY"
