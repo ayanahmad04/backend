@@ -11,7 +11,7 @@ import tensorflow as tf
 # CONFIG
 # =======================
 APP_TITLE = "Image Model API"
-MODEL_PATH = "model/best_model.keras"
+MODEL_PATH = "model/neww_final_4class_model.keras"
 IMG_SIZE = (224, 224)
 CLASS_NAMES = ["Normal", "Pneumonia", "Pneumothorax", "TB"]
 
