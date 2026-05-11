@@ -3,5 +3,7 @@ uvicorn
 tensorflow
 numpy
 pillow
+opencv-python
 requests
 python-multipart
+

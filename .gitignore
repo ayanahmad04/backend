@@ -209,3 +209,5 @@ __marimo__/
 model/best_model.keras
 model/model.tflite
 model/neww_final_4class_model.keras
+model/model1.tflite
+model/model.tflite
